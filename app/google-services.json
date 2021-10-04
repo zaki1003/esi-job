@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253546393743",
+    "firebase_url": "https://esi-emploitest1.firebaseio.com",
+    "project_id": "esi-emploitest1",
+    "storage_bucket": "esi-emploitest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253546393743:android:6fc0afd217b97c181c00fa",
+        "android_client_info": {
+          "package_name": "com.example.esi_emploitest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253546393743-apsrgpp5mm6o3vmnjaic5qpd8ofac40p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esi_emploitest1",
+            "certificate_hash": "9d031ba8f297c59d4b91b3534dd5a65fd7f224bf"
+          }
+        },
+        {
+          "client_id": "253546393743-se7suvi6kok9fiplibiudj34n12qjapg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-h3ViN_wrT4t9U-H-337mlRZIbchfBzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253546393743-se7suvi6kok9fiplibiudj34n12qjapg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
